@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**elhamras/elhamras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Elham Rastighahfarokhi, a passionate IT third-year student with expertise in cybersecurity and cloud computing.
 
-Here are some ideas to get you started:
+## Skills
+- **Cybersecurity:** Network Security, Penetration Testing, Vulnerability Assessment
+- **Cloud Computing:** AWS
+- **Programming Languages:** Python, Bash
+- **Network Engineering**
+- **Cisco Systems Products**
+- **Wireless Networking**
+- **Cisco Routers**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications
+-**Cisco: Networking Essentials**
+- **CCNAv7: Switching, Routing, and Wireless Essentials**
+- **AWS Academy Graduate - AWS Academy Introduction to Cloud Semester 1**
+- **AWS Academy Graduate - AWS Academy Introduction to Cloud Semester 2**
+- **LearnQuest: Linux Fundamentals**
+  
+## Projects
+
+
+## Get in Touch
+- **LinkedIn:** https://www.linkedin.com/in/elham-rasti/
+
